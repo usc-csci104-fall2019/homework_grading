@@ -1,0 +1,6 @@
+START 1
+ADD
+ADD
+MOVE 0 1 0 0
+MOVE 1 0 0 0 asdf
+MOVE     0 1                     0 0

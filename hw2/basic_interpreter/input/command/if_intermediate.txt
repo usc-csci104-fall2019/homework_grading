@@ -1,0 +1,4 @@
+1 IF 2 > -1 THEN 1
+2 IF 2 < A THEN 2
+3 IF XYZ[35] = -123 THEN 3
+4 IF ASDF = JKL[(1 * 5)] THEN 4

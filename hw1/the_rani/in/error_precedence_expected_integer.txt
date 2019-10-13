@@ -1,0 +1,2 @@
+START 1
+MOVE a b c

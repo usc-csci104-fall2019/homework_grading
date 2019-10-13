@@ -1,0 +1,4 @@
+1  END
+2    GOTO  2
+3 GOSUB      3
+4   RETURN

@@ -1,0 +1,4 @@
+1     PRINT    (  A  - 1)
+2  PRINT ( ( B - 1 ) +  A)
+3 PRINT A [ 4 ]
+4 PRINT   (1 / ABC [ 1   ] )
