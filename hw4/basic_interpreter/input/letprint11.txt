@@ -1,0 +1,9 @@
+1 LET X 1
+2 LET Y[0] 2
+3 LET Y[-1] (X - Y)
+4 PRINT X
+5 PRINT Y[0]
+6 PRINT (X * Y[-1])
+7 LET Y[0] X
+8 PRINT Y[0]
+9 END

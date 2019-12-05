@@ -1,0 +1,4 @@
+1 IF 1 = 0 THEN 3
+2 PRINT 1
+3 PRINT 2
+4 END

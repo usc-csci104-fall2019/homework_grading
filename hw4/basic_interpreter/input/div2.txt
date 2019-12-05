@@ -1,0 +1,4 @@
+1 LET X 0
+2 IF 1 < (X / X) THEN 3
+3 PRINT X
+30 END

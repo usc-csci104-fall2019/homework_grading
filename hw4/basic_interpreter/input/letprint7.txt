@@ -1,0 +1,7 @@
+1 LET X 1 
+2 LET B[X] 42
+3 LET C[B[X]] 1
+4 PRINT X
+5 PRINT B[X]
+6 PRINT C[B[X]]
+7 END

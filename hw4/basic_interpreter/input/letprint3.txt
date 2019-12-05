@@ -1,0 +1,9 @@
+1 LET X (1 + 1)
+2 PRINT X
+3 LET A (1 * 42)
+4 PRINT A
+5 LET B (1 - 32)
+6 PRINT B
+7 LET C (1 / 1)
+8 PRINT C
+9 END

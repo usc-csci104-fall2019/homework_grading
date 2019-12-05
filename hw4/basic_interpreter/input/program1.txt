@@ -1,0 +1,11 @@
+1 LET I 0
+2 LET SIZE 20000
+3 LET A [ I ] I 
+4 LET I ( I + 1 )
+5 IF I < SIZE THEN 3
+6 GOTO 7 
+7 LET I 0 
+8 PRINT A [ I ]
+9 LET I ( 1 + I )
+10 IF I < SIZE THEN 8
+11 END
