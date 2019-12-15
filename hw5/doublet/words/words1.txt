@@ -1,0 +1,7 @@
+6
+head
+heal
+tail
+tell
+tall
+teal

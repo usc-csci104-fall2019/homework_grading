@@ -1,0 +1,10 @@
+head tail words1
+ape man words2
+flour bread words3
+one two words4
+black white words5
+blue pink words6
+river shore words7
+witch fairy words8
+sleep dream words9
+river gotee words10
